@@ -1,2 +1,6 @@
 # 1st-demo
-# Author: Ramandeep Bansal
+
+This is my first Git Repository.
+<br>
+
+Author: Ramandeep Bansal
